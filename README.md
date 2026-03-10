@@ -25,7 +25,6 @@ $ cat interests.txt
 > 🌐 Web Development
 > 📱 App Development  
 > 🔧 Scripting & Tools
-> 🎌 Anime (JJK forever 🔵🔴)
 ```
 
 ---
@@ -81,14 +80,5 @@ $ cat interests.txt
 ## 👁️ Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/Y4AMA/count.svg)
-
----
-
-```
-╔══════════════════════════════════════╗
-║   > "Code is the jutsu I master."   ║
-║                          — Y4AMA    ║
-╚══════════════════════════════════════╝
-```
 
 </div>
