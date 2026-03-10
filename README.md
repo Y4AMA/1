@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Y4AMA+%F0%9F%91%BE;Web+Dev+%7C+JS+%7C+Lua+%7C+Python;Building+things+that+matter...;%3E+executing+code...;%3E+shipping+projects...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nekopoi;%3E+executing+code...;%3E+shipping+projects...;" alt="Typing SVG" />
 </a>
 
 <!-- JJK GIF -->
@@ -14,16 +14,15 @@
 
 ```bash
 $ whoami
-> Y4AMA — Web Developer & Code Enthusiast
+> YAMA
 
 $ cat skills.txt
-> Languages : JavaScript / TypeScript, Python, Lua
-> Specialty : Web Dev, App Dev, Scripting & Automation
-> Status    : Always building something new...
+> Languages : JavaScript, Python, Lua
+> Specialty : Web Dev,Scripting
+> Status    : Janda
 
 $ cat interests.txt
 > 🌐 Web Development
-> 📱 App Development  
 > 🔧 Scripting & Tools
 ```
 
@@ -34,11 +33,8 @@ $ cat interests.txt
 ## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
