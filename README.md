@@ -6,7 +6,7 @@
 </a>
 
 <!-- JJK GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxteHZqcGp1NnY3dXZiNm56ajFyNnNzdHZhNmM4d2xhMzByM2N5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7kfFDvD9HSYGRbvid/giphy.gif" width="300" alt="Gojo Satoru JJK" />
+<img src="https://media.tenor.com/x8v1oNUDfmIAAAAC/gojo-satoru-gojo.gif" width="300" alt="Gojo Satoru JJK" />
 
 </div>
 
