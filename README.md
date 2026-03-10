@@ -6,7 +6,7 @@
 </a>
 
 <!-- JJK GIF -->
-<img src="https://media.tenor.com/x8v1oNUDfmIAAAAC/gojo-satoru-gojo.gif" width="300" alt="Gojo Satoru JJK" />
+<img src="https://media1.tenor.com/m/iwXHwlY31ecAAAAC/yuji-itadori-suku.gif" width="300" alt="Sukuna JJK" />
 
 </div>
 
